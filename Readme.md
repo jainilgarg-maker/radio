@@ -13,6 +13,12 @@ This project is part of a Blueprint project, and so i was limited to a budget of
 * **Premium Power:** stainless steel buttons have a clicky and premium feel.
 * **Signal Strength:** telescopinc antenna for better sound clarity.
 
+###Design Screenshots
+* **3d model** 
+<img width="560" height="320" alt="Screenshot 2026-01-17 194256" src="https://github.com/user-attachments/assets/e2d222f7-c158-4158-94b5-45e2f982d574" />
+* **PCB** <img width="308" height="398" alt="Screenshot 2026-01-17 194440" src="https://github.com/user-attachments/assets/9994423d-2732-42f0-888c-05250d7d82cb" />
+* **Schematic** <img width="684" height="467" alt="image" src="https://github.com/user-attachments/assets/7e1a2c33-1996-4839-b761-29b6ce4404fe" />
+
 
 ### Main Components
 * **Microcontroller:** ESP32-C3 SuperMini
@@ -23,4 +29,8 @@ This project is part of a Blueprint project, and so i was limited to a budget of
 ## Repository Map
 * `/Hardware`: Contains the EasyEDA JSON and Gerber files.
 * `/Code`: Arduino sketch.
-* `/Docs`: Wiring diagrams, Bill of Materials, and 3D case renders.
+* `/Docs`: Wiring diagram, Bill of Material, and 3D printed case.
+
+
+<img width="1321" height="393" alt="Screenshot 2026-01-17 194653" src="https://github.com/user-attachments/assets/5d8e04ca-9514-4477-8ca8-db2066ad6b52" />
+
