@@ -13,11 +13,13 @@ This project is part of a Blueprint project, and so i was limited to a budget of
 * **Premium Power:** stainless steel buttons have a clicky and premium feel.
 * **Signal Strength:** telescopinc antenna for better sound clarity.
 
-###Design Screenshots
-* **3d model** 
+### Design Screenshots
+
 <img width="560" height="320" alt="Screenshot 2026-01-17 194256" src="https://github.com/user-attachments/assets/e2d222f7-c158-4158-94b5-45e2f982d574" />
-* **PCB** <img width="308" height="398" alt="Screenshot 2026-01-17 194440" src="https://github.com/user-attachments/assets/9994423d-2732-42f0-888c-05250d7d82cb" />
-* **Schematic** <img width="684" height="467" alt="image" src="https://github.com/user-attachments/assets/7e1a2c33-1996-4839-b761-29b6ce4404fe" />
+
+<img width="308" height="398" alt="Screenshot 2026-01-17 194440" src="https://github.com/user-attachments/assets/9994423d-2732-42f0-888c-05250d7d82cb" />
+
+<img width="684" height="467" alt="image" src="https://github.com/user-attachments/assets/7e1a2c33-1996-4839-b761-29b6ce4404fe" />
 
 
 ### Main Components
