@@ -31,7 +31,7 @@ This project is part of a Blueprint project, and so i was limited to a budget of
 ## Repository Map
 * `/Hardware`: Contains the EasyEDA JSON and Gerber files.
 * `/Code`: Arduino sketch.
-* `/Docs`: Wiring diagram, Bill of Material, and 3D printed case.
+* `/Docs`: Wiring diagram, Bill of Material, 3D printed case, and case with components adjusted in it.
 
 
 <img width="1321" height="393" alt="Screenshot 2026-01-17 194653" src="https://github.com/user-attachments/assets/5d8e04ca-9514-4477-8ca8-db2066ad6b52" />
