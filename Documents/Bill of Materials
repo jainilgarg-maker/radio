@@ -1,5 +1,5 @@
 Name of item,Quantity,Cost,Link,Purpose,Already Have?
-PCB from JLCPCB,1,≈$10,N/A,Board that connects all the components together,no
+PCB from JLCPCB,1,≈$4,N/A,Board that connects all the components together,no
 Esp32-C3 Supermini,1,$2,https://www.aliexpress.us/item/3256808854501496.html?spm=a2g0o.productlist.main.21.1fcfwKgqwKgqmE&algo_pvid=3b3cb72a-3c3a-4bc0-b93c-75f5b2e9bb46&algo_exp_id=3b3cb72a-3c3a-4bc0-b93c-75f5b2e9bb46-18&pdp_ext_f=%7B%22order%22%3A%22216%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%2120.69%2119.66%21%21%2120.69%2119.66%21%402103212317681768912594632e7cd2%2112000047680807915%21sea%21US%216932713053%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac0df8938%3Bm03_new_user%3A-29895&curPageLogUid=H45T1KI6L6Nz&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009040816248%7C_p_origin_prod%3A,Microcontroller that communicates with all the components,no
 18650 Rechargable Battery,1,$7,https://www.aliexpress.us/item/3256810532624329.html?spm=a2g0o.productlist.main.6.1ed2184fqExiuz&algo_pvid=912ba7ca-f73c-4622-b6a5-30414b3a51e3&algo_exp_id=912ba7ca-f73c-4622-b6a5-30414b3a51e3-8&pdp_ext_f=%7B%22order%22%3A%221%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%2116.35%216.62%21%21%21113.44%2145.91%21%40210328df17681771215878603eff24%2112000053288048247%21sea%21US%216932713053%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac0df8938%3Bm03_new_user%3A-29895%3BpisId%3A5000000199094642&curPageLogUid=ZsFoP9ZgF2oS&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005010718939081%7C_p_origin_prod%3A,Battery that makes the radio portable,no
 4 ohm 3 watt Speakers,2,$6.32,https://www.aliexpress.us/item/3256803269404653.html?spm=a2g0o.order_list.order_list_main.51.55d11802jyZ2xV&gatewayAdapt=glo2usa,Produce the actual sound,only 1
@@ -15,5 +15,6 @@ RDA5807M FM Radio Module,1,$4.00,"https://www.aliexpress.us/item/325680760014570
 RGB LED,1,$1.66,https://www.aliexpress.us/item/3256805965054405.html?spm=a2g0o.productlist.main.1.7b84xWErxWEreN&algo_pvid=5379d7f1-05db-4342-ac01-5570af4c098e&algo_exp_id=5379d7f1-05db-4342-ac01-5570af4c098e-0&pdp_ext_f=%7B%22order%22%3A%22582%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%211.66%211.66%21%21%211.66%211.66%21%40210311c217684362415902176e85a9%2112000035999236799%21sea%21US%216937100002%21X%211%210%21n_tag%3A-29911%3Bd%3Ac0df8938%3Bm03_new_user%3A-29895&curPageLogUid=CKwc2wm807Qg&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006151369157%7C_p_origin_prod%3A,Indicates battery,no
 aux port,1,$1.71,https://www.aliexpress.us/item/2251832654409957.html?spm=a2g0o.order_list.order_list_main.40.3bdd1802SihyWz&gatewayAdapt=glo2usa,headphone listenning,yes
 Total,,$51.17,,,
-Total funds needed (parts I dont have and inlcuding tax),,$39.74,,,
+Total funds needed (parts I dont have and inlcuding tax),,$33.74,,,
+
 
